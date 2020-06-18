@@ -12,6 +12,7 @@ RTIMULib2 is the second version of the original RTIMULib library. The main chang
 
 RTIMULib2 has been extended to support some other IMUs:
 
+* GY85:HMC5883L/ADXL345/ITG3205 - https://github.com/horo2016/RTIMULib2
 * HMC5883L/ADXL345/L3G4200D - https://github.com/jeff-loughlin/RTIMULib2
 * MPU-9255 - https://github.com/Nick-Currawong/RTIMULib2
 
